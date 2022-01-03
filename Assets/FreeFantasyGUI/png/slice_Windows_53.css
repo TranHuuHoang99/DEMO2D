@@ -1,0 +1,5 @@
+.Windows {
+	border-style: solid;
+	border-width: 53px 160px 0px 159px;
+	border-image: url(slice_Windows_53.png) 53 160 0 159 fill stretch;
+}
