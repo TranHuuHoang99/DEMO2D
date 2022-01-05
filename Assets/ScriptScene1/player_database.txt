@@ -1,0 +1,124 @@
+{
+    "player" : [
+        {
+            "name" : "HOANG",
+            "score" : 352345
+        },
+        {
+            "name" : "NAM",
+            "score" : 2345234
+        },
+        {
+            "name" : "HOANG",
+            "score" : 2457254
+        },
+        {
+            "name" : "VU",
+            "score" : 27
+        },
+        {
+            "name" : "NAM",
+            "score" : 26
+        },
+        {
+            "name" : "NAM",
+            "score" : 25
+        },
+        {
+            "name" : "NAM",
+            "score" : 24
+        },
+        {
+            "name" : "VU",
+            "score" : 23
+        },
+        {
+            "name" : "VU",
+            "score" : 22
+        },
+        {
+            "name" : "HOANG",
+            "score" : 21
+        },
+        {
+            "name" : "HOANG",
+            "score" : 20
+        },
+        {
+            "name" : "HOANG",
+            "score" : 19
+        },
+        {
+            "name" : "VU",
+            "score" : 18
+        },
+        {
+            "name" : "VU",
+            "score" : 17
+        },
+        {
+            "name" : "NAM",
+            "score" : 16
+        },
+        {
+            "name" : "HOA",
+            "score" : 15
+        },
+        {
+            "name" : "HOANG",
+            "score" : 14
+        },
+        {
+            "name" : "HOANG",
+            "score" : 13
+        },
+        {
+            "name" : "AFDFHA",
+            "score" : 12
+        },
+        {
+            "name" : "FDGDFB",
+            "score" : 11
+        },
+        {
+            "name" : "HOANG",
+            "score" : 10
+        },
+        {
+            "name" : "DSCVDFV",
+            "score" : 9
+        },
+        {
+            "name" : "VFDVSDFV",
+            "score" : 8
+        },
+        {
+            "name" : "VSFDVSDFV",
+            "score" : 7
+        },
+        {
+            "name" : "VSFDVS",
+            "score" : 6
+        },
+        {
+            "name" : "AFDSF",
+            "score" : 5
+        },
+        {
+            "name" : "ASDFVVJYKYUK",
+            "score" : 4
+        },
+        {
+            "name" : "HOANG",
+            "score" : 3
+        },
+        {
+            "name" : "HOANG",
+            "score" : 124124
+        },
+        {
+            "name" : "HOANG",
+            "score" : 1243545
+        }
+    ]
+}
